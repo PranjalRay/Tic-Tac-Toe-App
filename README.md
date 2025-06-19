@@ -1,4 +1,4 @@
-# Prodigy-Tic-Tac-Toe-App
-# The task is about building a "Tic-Tac-Toe Web application".
+# Tic-Tac-Toe-App
+# The task is about building a "Tic-Tac-Toe Using Bash Script and Web application".
 
-To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
+To build a tic-tac-toe using bash script and also a web application, you can use JavaScript. The tic_tac_toe.sh script is a terminal-based 2-player Tic Tac Toe game written in Bash. It allows two users to play by entering cell positions on a 3x3 board, with automatic win and draw detection. The game uses basic condition checks and loops to simulate gameplay without any external dependencies. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
